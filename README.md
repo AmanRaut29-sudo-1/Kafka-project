@@ -26,6 +26,18 @@ Failure handling
 Event-driven architecture
 
 
+Screenshots :-
+
+Producer sends messages to kafka :- 
+
+<img width="890" height="47" alt="image" src="https://github.com/user-attachments/assets/6bf87e92-6a50-4e71-a087-1ad36b6194db" />
+
+Consumer reads messages from kafka server :- 
+
+<img width="829" height="201" alt="image" src="https://github.com/user-attachments/assets/cf6b8a0c-e4ca-45e0-9fa5-45ebbe7082ba" />
+
+
+
 CLI commands :- 
 
 1. docker exec -it kafka kafka-topics --list --bootstrap-server localhost:9092 :- to check topics
